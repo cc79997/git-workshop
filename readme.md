@@ -1,8 +1,13 @@
 # git workshop
 
-git 練習   
+### 上課的感覺蠻舒服的教學很流暢
+### 跟著打沒甚麼問題
+### 不過git感覺有些抽象
+### 老師上課有畫圖加上我每次打完都會status看一下
+### 所以add跟commit還算OK
 
-```bash
-git add a.txt
-git commit -m "commit message"
-```
+### 在家裡練習的時候連線的問題比較多
+### 一開始要先創一個一樣叫做git-workshop的資料夾嗎?
+### 還是我路徑決定好之後就可以連線了
+### 然後git branch會看不到，是不是要先commit一次才可以看到分支
+### 最後是pull的時候本地沒有檔案，不過git graph套件有長出分支
